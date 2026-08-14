@@ -1,13 +1,12 @@
 {
-    "name": "retro-arcade-audio",
+    "name": "retro-arcade-speaker",
     "version": "1.0.0",
-    "description": "Retro Arcade N3 audio pin configuration",
+    "description": "Retro Arcade external speaker",
     "license": "MIT",
-    "files": [
-        "config.ts",
-        "device.d.ts"
-    ],
     "dependencies": {
         "core": "*"
-    }
+    },
+    "files": [
+        "main.ts"
+    ]
 }

@@ -1,7 +1,7 @@
 {
-    "name": "external-speaker",
-    "version": "0.0.1",
-    "description": "External speaker extension",
+    "name": "retro-arcade-speaker",
+    "version": "1.0.0",
+    "description": "External speaker control for micro:bit Retro Arcade N3",
     "license": "MIT",
     "dependencies": {
         "core": "*"

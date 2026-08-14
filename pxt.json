@@ -1,7 +1,7 @@
 {
     "name": "external-speaker",
     "version": "0.0.1",
-    "description": "External speaker audio pin extension for MakeCode Arcade",
+    "description": "External speaker extension",
     "license": "MIT",
     "dependencies": {
         "core": "*"

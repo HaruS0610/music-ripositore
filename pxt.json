@@ -1,12 +1,16 @@
 {
     "name": "retro-arcade-speaker",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Retro Arcade external speaker",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "device": "*"
     },
     "files": [
         "main.ts"
-    ]
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
 }

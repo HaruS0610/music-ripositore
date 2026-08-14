@@ -1,0 +1,13 @@
+{
+    "name": "external-speaker",
+    "version": "0.0.1",
+    "description": "外付けスピーカーの音楽出力ピンを設定する拡張機能",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": []
+}

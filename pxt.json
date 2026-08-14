@@ -1,13 +1,12 @@
 {
     "name": "external-speaker",
     "version": "0.0.1",
-    "description": "外付けスピーカーの音楽出力ピンを設定する拡張機能",
+    "description": "External speaker audio pin extension for MakeCode Arcade",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "main.ts"
-    ],
-    "testFiles": []
+    ]
 }
